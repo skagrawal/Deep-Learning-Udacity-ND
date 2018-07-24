@@ -4,6 +4,17 @@ This repository contains course material and projects related to Udacity's [Deep
 
 ## Table Of Contents
 
+
+
+### Projects
+
+* [Your First Neural Network](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
+* [Image classification](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
+* [TV script Generation](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
+* [Language Translation](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/language-translation): Train a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
+* [Face Generation](https://github.com/skagrawal/Deep-Learning-Udacity-ND-Udacity-ND/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
+
+
 ### Tutorials
 
 * [Sentiment Analysis with Numpy](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/sentiment-network): [Andrew Trask](http://iamtrask.github.io/) leads you through building a sentiment analysis model, predicting if some text is positive or negative.
@@ -21,15 +32,6 @@ This repository contains course material and projects related to Udacity's [Deep
 * [Generative Adversatial Network on MNIST](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/gan_mnist): Train a simple generative adversarial network on the MNIST dataset.
 * [Deep Convolutional GAN (DCGAN)](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/dcgan-svhn): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
 * [Intro to TFLearn](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/intro-to-tflearn): A couple introductions to a high-level library for building neural networks.
-
-### Projects
-
-* [Your First Neural Network](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
-* [Image classification](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
-* [Text Generation](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
-* [Machine Translation](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/language-translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
-* [Face Generation](https://github.com/skagrawal/Deep-Learning-Udacity-ND-Udacity-ND/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
-
 
 ## Dependencies
 
