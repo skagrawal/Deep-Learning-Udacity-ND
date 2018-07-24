@@ -12,7 +12,7 @@ This repository contains course material and projects related to Udacity's [Deep
 * [Image classification](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
 * [TV script Generation](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 * [Language Translation](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/language-translation): Train a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
-* [Face Generation](https://github.com/skagrawal/Deep-Learning-Udacity-ND-Udacity-ND/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
+* [Face Generation](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 
 
 ### Tutorials
