@@ -6,7 +6,7 @@ This repository contains course material and projects related to Udacity's [Deep
 
 
 
-### Projects
+### Projects - projects done as part of the Nanodegree
 
 * [Your First Neural Network](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
 * [Image classification](https://github.com/skagrawal/Deep-Learning-Udacity-ND/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
